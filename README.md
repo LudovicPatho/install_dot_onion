@@ -1,8 +1,7 @@
 # install_dot_onion
 
 1.   **Install Tor:**
-    
-    *   Install the Tor Browser on your system. You can download it from the official Tor Project website.
+Install the Tor Browser on your system. You can download it from the official Tor Project website.
 
 2.   **Configure the Web Server:**
     
